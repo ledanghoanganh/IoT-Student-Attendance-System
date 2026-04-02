@@ -148,13 +148,6 @@ This project is a collaborative effort by the following individuals:
 * **Phan Khánh An (ap991)** — Firmware & Frontend 
 > 🌐 Contact: [GitHub: *anphan991*](https://github.com/anphan991) / [Email: *an0915129080@gmail.com*](mailto:an0915129080@gmail.com)
 
-
-
----
-
-## 🚀 Upcoming Updates (Coming Soon)
-...
-
 ---
 
 
