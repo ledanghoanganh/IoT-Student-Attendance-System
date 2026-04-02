@@ -27,8 +27,38 @@ IoT_Attendance_Project/
 │   ├── requirements.txt  
 │   └── .dockerignore
 ├── web/                  
-│   └── web.html        
-├── docs/                 
+│   └── index.html        
+├── docs/
+│   ├── IOT04_GK_NHOM09_WORD.docx
+│   ├── IOT04_GK_NHOM09_WORD.pdf
+│   ├── iot_latex_nhom9.tex
+│   ├── iot_pdf_latex_nhom9.pdf
+│   ├── iot_ppt_nhom9.pptx
+│   ├── img/
+│       ├── Lưu đồ thuật toán xử lý điểm danh trên Server (FastAPI).png
+│       ├── Lưu đồ truyền tải mạng ngầm ESP32 (Core 0 - TaskUpload).png
+│       ├── Lưu đồ xác thực đăng nhập Giao diện Web (Frontend).png
+│       ├── Lưu đồ xử lý chính của ESP32 (Core 1 - Quét thẻ & Hiển thị).png
+│       ├── Screenshot 2026-03-01 200038.png
+│       ├── confirm.png
+│       ├── darkmode.png
+│       ├── dashboard.png
+│       ├── data_schema.png
+│       ├── erd.png
+│       ├── error_login.png
+│       ├── esp32-so-do-chan-1.jpg
+│       ├── freertos.jpg
+│       ├── hcmute_logo.png
+│       ├── hugging_face.jpg
+│       ├── login.png
+│       ├── nguyen_ly_rfid.png
+│       ├── rfid_tag.png
+│       ├── so_do_khoi.png
+│       ├── spi.jpg
+│       ├── sucessful_login.png
+│       ├── supabase.jpg
+│       ├── tinh_chat_acid.png
+│       ├── wokwi.jpg
 └── README.md
 ```
 
@@ -111,7 +141,7 @@ IoT_Attendance_Project/
 
 You can explore the live simulation and hosted dashboard through the links below:
 
-* 📺 **Video Demonstration:** [Watch the Project Demo](https://www.google.com/search?q=%23) — *A full walkthrough of the hardware scanning process and real-time dashboard updates.*
+* 📺 **Video Demonstration:** [Watch the Project Demo](https://drive.google.com/file/d/1cgF-O73P_ftSYYpptfA5xUpTB4Heaq7a/view?usp=sharing) — *A full walkthrough of the hardware scanning process and real-time dashboard updates.*
 * 🔌 **Wokwi Online Simulation:** [Launch ESP32 Simulation](https://wokwi.com/projects/454856473504871425) — *Interact with the virtual ESP32 and RFID logic directly in your browser | The demo only fetches the student list during active hours (07:30-11:00 and 12:45-17:00).*
 * 🚀 **Live Web Dashboard:** [Access IoT Attendance Portal](https://danganhle0623-iot.hf.space) — *The production-ready interface hosted on Hugging Face Spaces.(User name: admin, Password: 123456).*
 
@@ -130,15 +160,15 @@ This project is a collaborative effort by the following individuals:
 > 🌐 Contact: [GitHub: *ledanghoanganh*](https://github.com/ledanghoanganh) / [Email: *leanhhoang145@gmail.com*](mailto:leanhhoang145@gmail.com)
 
 
-* **Trần Công Khánh (NCK)** — Project Coordinator & Flex Developer
-> 🌐 Contact: [GitHub: *TranKhanh20*](https://github.com/TranKhanh206) / [Email: *trancongkhanh2006.tn@gmail.com*](mailto:trancongkhanh2006.tn@gmail.com)
+* **Trần Công Khánh (NCK)** — Project Coordinator & Flex Developer & Product demo presenter
+> 🌐 Contact: [GitHub: *TranKhanh206*](https://github.com/TranKhanh206) / [Email: *trancongkhanh2006.tn@gmail.com*](mailto:trancongkhanh2006.tn@gmail.com)
 
 
-* **Nguyễn Bá Nam (sepNAM)** — Project Manager & Documentation
+* **Nguyễn Bá Nam (xepNam)** — Project Manager & Documentation & Product demo presenter
 > 🌐 Contact: [GitHub: *nguyenbanam272-cyber*](https://github.com/nguyenbanam272-cyber) / [Email: *nguyenbanam272@gmail.com*](mailto:nguyenbanam272@gmail.com)
 
 
-* **Phan Khánh An (ap991)** — Firmware & Frontend
+* **Phan Khánh An (ap991)** — Firmware & Frontend 
 > 🌐 Contact: [GitHub: *anphan991*](https://github.com/anphan991) / [Email: *an0915129080@gmail.com*](mailto:an0915129080@gmail.com)
 
 
@@ -146,10 +176,7 @@ This project is a collaborative effort by the following individuals:
 ---
 
 ## 🚀 Upcoming Updates (Coming Soon)
-* **Update Docs**
-* **Real-time WebSockets:** To provide instant dashboard updates without refreshing.
-* **Security Hardening:** Implementing advanced encryption for RFID data transmission.
-* **Mobile Companion App:** A dedicated application for students to check their own attendance history.
+...
 
 ---
 
